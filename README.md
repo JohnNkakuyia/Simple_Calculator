@@ -1,5 +1,5 @@
 
-# Simple Calculator Program
+# 📟 Simple Calculator Program
 
 ## Description
 This is a basic command-line calculator program written in Python. It allows users to perform simple arithmetic operations (addition, subtraction, multiplication, and division) on two numbers.
