@@ -1,4 +1,4 @@
-```markdown
+
 # Simple Calculator Program
 
 ## Description
@@ -38,6 +38,5 @@ The program handles:
 - Division by zero (prints "Error: undefined (division by zero)")
 - Invalid operation input (prints "Error: Invalid operation. Please enter one of +, -, *, /.")
 
-## License
-This is free and unencumbered software released into the public domain.
-```
+
+
